@@ -1,0 +1,9 @@
+* {
+	box-sizing: border-box;
+}
+
+#start{
+	font-style: italic;
+	font-color: white;
+	background-color: blue;
+}
